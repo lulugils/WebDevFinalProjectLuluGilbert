@@ -1,0 +1,15 @@
+.Heading{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.Italic{
+    font-style: italic;
+}
+
+.Bold{
+    font-style: oblique;
+}
+
+.Resume{
+    font-size: larger;
+}
